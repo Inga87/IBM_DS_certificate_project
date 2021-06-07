@@ -3,7 +3,7 @@
 
 **SEGMENTING HAMMERSMITH AND FULHAM WARDS**
 
-                                                                                                                    6th of June 2021
+                                                                                            6th of June 2021
 
 **REPORT**
 
