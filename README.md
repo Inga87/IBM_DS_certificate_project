@@ -1,5 +1,7 @@
 # IBM_DS_certificate_project
 
+*link to the code => https://nbviewer.jupyter.org/github/Inga87/IBM_DS_certificate_project/blob/main/Foursquare_schools.ipynb*
+
 
 **SEGMENTING HAMMERSMITH AND FULHAM WARDS**
 
